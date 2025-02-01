@@ -68,6 +68,6 @@ Siga os passos abaixo para clonar o repositório, importar no VS Code usando a e
 
 - Para ver o funcionamento do projeto, acesse o vídeo:
 clique na imagem para ver o vídeo de funcionamento no Linux:
-[![Demostração](/images/25-01-31.png)](https://youtu.be/OZlVZHFHEOo)
+[![Demostração](/imagens/25-01-31.png)](https://youtu.be/OZlVZHFHEOo)
 
 </div>
